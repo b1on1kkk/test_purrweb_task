@@ -19,7 +19,7 @@
 Копируйте repo:
 
 ```bash
-  git clone https://github.com/b1on1kkk/sagtech-test-task.git
+  git clone https://github.com/b1on1kkk/test_purrweb_task.git
 ```
 
 Создайте (и добавьте) или раскомментируйте `.env` файлик:
