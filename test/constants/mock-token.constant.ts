@@ -1,0 +1,2 @@
+export const mockTestAdminToken =
+  'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NSwicm9sZSI6InVzZXIiLCJpYXQiOjE3MjE0OTgwOTMsImV4cCI6NDg3NzI1ODA5M30.8tKxLJamfl2ohRuptsoz_IIpxgz056dNqOu4A6fFzKU';
